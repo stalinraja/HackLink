@@ -19,7 +19,6 @@ List of hacking utilities. Resources that I consider useful and that I have been
    * [Steganography cheat sheet](steganography-cheat-sheet.md)
    * [System hacking cheat sheet](system-hacking-cheat-sheet.md)
  * [Contributors](#contributors)
- * [License](#license)
 
 
 ## Contributors 
