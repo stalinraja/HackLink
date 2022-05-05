@@ -33,10 +33,3 @@ List of hacking utilities. Resources that I consider useful and that I have been
 This repository follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
-## License
-
-© 2021 [javierizquierdovera.com](https://javierizquierdovera.com)
-
-Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([`LICENSE-APACHE`](LICENSE-APACHE)) or the [MIT license](https://opensource.org/licenses/MIT) ([`LICENSE-MIT`](LICENSE-MIT)), at your option.
-
-`SPDX-License-Identifier: (Apache-2.0 OR MIT)`
